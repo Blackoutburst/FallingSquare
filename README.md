@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/Blackoutburst/FallingSquare.svg)](LICENSE)
+
 # FallingSquare
 This Android application is a game where you move the player using your phone gyroscope. This game has really basic graphics and really simple game mechanics.
 
